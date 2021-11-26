@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TurnTheGameOn\Racing Game Template\Scripts\RG_GarageManager.cs">
+    <Files>
+      <File FileName="Assets\TurnTheGameOn\Racing Game Template\Scripts\RG_IKDriver.cs" Line="9" Column="41" />
+      <File FileName="Assets\TurnTheGameOn\Racing Game Template\Scripts\RG_BrakeLight.cs" Line="21" Column="6" />
+      <File FileName="Assets\TurnTheGameOn\Racing Game Template\Scripts\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" Line="91" Column="3" />
+      <File FileName="Assets\TurnTheGameOn\Racing Game Template\Scripts\RG_GarageManager.cs" Line="973" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
